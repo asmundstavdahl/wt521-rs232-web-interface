@@ -1,3 +1,5 @@
+# Development continues [here](https://github.com/ntnu-itk/wt521-rs232-web-interface)
+
 # wt521-rs232-web-interface ![ci_build](https://travis-ci.org/asmundstavdahl/wt521-rs232-web-interface.svg?branch=master)
 Web interface for the Vaisala WT521 using RS-232.
 
